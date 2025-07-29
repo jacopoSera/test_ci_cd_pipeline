@@ -1,0 +1,7 @@
+
+
+Obiettivo:
+
+- Creare al push su github build automatica, con aggiornamento del numero della build.
+- Creazione di changelog automatica in base ai commit
+- Esecuzione di test sul codice da pushare
