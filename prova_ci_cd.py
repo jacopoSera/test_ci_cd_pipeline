@@ -1,5 +1,13 @@
 import version
 
+# fare gitignore e togliere pycache
+
+
+def add(a: int, b: int) -> int:
+    return a+b
+
+
+
 def main() -> None:
 
     print("Script prova per CI / CD con github")
@@ -7,6 +15,9 @@ def main() -> None:
 
 
     print("Added in the devel branch")
+    print("1")
+
+    add(2, 5)
 
     return
 
