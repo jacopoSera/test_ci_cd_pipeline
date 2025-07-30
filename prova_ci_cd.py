@@ -7,7 +7,7 @@ def main() -> None:
 
 
     print("Added in the devel branch")
-
+    print("1")
     return
 
 
